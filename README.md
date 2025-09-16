@@ -15,8 +15,7 @@ Helper scripts and example configuration for integrating FreeRADIUS authenticati
 
 ## Deliverables
 - `configs/` — example FreeRADIUS config snippets (sanitised)  
-- `scripts/` — user-import tool, test-auth script  
-- `docs/` — deployment steps & security notes
+
 
 ## How to run
 - Use the test harness: `python scripts/test_auth.py --user testuser`.
